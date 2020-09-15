@@ -1,2 +1,3 @@
 init repo
 add line on remote git repo
+add line on master remote git repo
